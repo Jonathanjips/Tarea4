@@ -1,5 +1,6 @@
 # Tarea4
                                         Tarea 4, C++ y Python 
+//CAPTURAS DE COPILACION  https://drive.google.com/open?id=1Tf6g0QC7ldMRg3_RoxU-BJPHAd1lopw8&usp=drive_copy
                                                         Ejercicio 1 C++
 #include <iostream>
 #include <vector>
@@ -188,3 +189,5 @@ int main() {
 
     return 0;
 }
+
+
